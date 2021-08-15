@@ -1,16 +1,21 @@
-# flutter_ecommerce
+# Flutter e - commerce
+I learn about Flutter is an e-commerce application.
 
-A new Flutter project.
+Shortcomings:
 
-## Getting Started
+- Favorities , gifts , best sellings pages.
+- Shopping cart page and buying procces.
+- User profile pages.
+- Search filter.
+- Back and develop (batch data extraction).
 
-This project is a starting point for a Flutter application.
+Planned additions in version 1.1
+- Favorities , gifts , best sellings pages.
+- User profile pages.
 
-A few resources to get you started if this is your first Flutter project:
+Screenshots :
+![Home](https://user-images.githubusercontent.com/63456077/129483941-af1c788c-e84f-4692-a9b6-8ecaaaa96c09.jpg)
+![Categories](https://user-images.githubusercontent.com/63456077/129483944-282cae25-b160-4042-953c-fc7fa1b7a56b.jpg)
+![Products](https://user-images.githubusercontent.com/63456077/129483951-9189b624-34bf-4b32-9932-c009a8822972.jpg)
+![Product_detail](https://user-images.githubusercontent.com/63456077/129483955-d4d54add-263c-4c2e-a413-dd46bec1321a.jpg)
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
